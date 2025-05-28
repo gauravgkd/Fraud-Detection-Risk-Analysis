@@ -68,7 +68,8 @@ To visualize and analyze customer risk scores, transactions, and fraud activitie
 ![Project Documentation](https://github.com/user-attachments/assets/c3214875-a806-48a0-b6bf-2947fb6451b3)
 
 
-![Uploading SQL Report.png…]()
+![SQL Report](https://github.com/user-attachments/assets/c2e0e32c-2822-4622-9c40-a8cba7d23bea)
+
 
 
 ## 📈 Key Insights
