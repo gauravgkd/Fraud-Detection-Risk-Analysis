@@ -1,0 +1,11 @@
+customer_id,name,age,gender,region
+C001,Customer1,58,M,North
+C002,Customer2,65,F,South
+C003,Customer3,32,M,North
+C004,Customer4,61,M,West
+C005,Customer5,20,M,North
+C006,Customer6,31,M,North
+C007,Customer7,53,M,West
+C008,Customer8,32,F,East
+C009,Customer9,18,M,West
+C010,Customer10,39,F,South
